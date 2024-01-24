@@ -1,6 +1,7 @@
 // Header file for input output functions
 #include <stdio.h>
 #include <stdlib.h>
+
 int main(void)
 {
     char a = 1;
